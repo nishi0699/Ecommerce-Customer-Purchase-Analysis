@@ -52,7 +52,7 @@ This project analyzes customer purchase behavior using a sample e-commerce datas
 ##  Dashboard Preview
 
 > **View Dashboard on Tableau Public**  
-🔗 *[Insert Tableau Public Link here]*
+🔗 *[(https://public.tableau.com/views/E-commerceCustomerPurchaseAnalysis/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]*
 
 ---
 
